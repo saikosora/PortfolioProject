@@ -1,0 +1,67 @@
+#game-container {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#game-layer {
+    position: relative;
+    width: 500px;
+    height: 500px;
+
+    border: 3px solid black;
+}
+
+.square {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    border: 3px solid black;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+body {
+    background-color: rgb(21, 0, 49);
+    color: rgb(252, 168, 255);
+}
+
+fieldset {
+    background-color: rgb(50, 13, 121);
+    color: rgb(145, 46, 148);
+}
+
+legend {
+    color: rgb(206, 64, 64);
+    font-size: 50px;
+}
+
+#game-layer {
+    background-color: greenyellow
+}
+
+#numbox {
+    background-color: rgb(231, 252, 207);
+}
+
+#start {
+    background-color: rgb(255, 251, 0);
+}
+
+#color {
+    background-color: rgb(255, 108, 189);
+}
+
+#clock {
+    background-color: rgb(229, 177, 250);
+}

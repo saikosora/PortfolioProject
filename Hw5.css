@@ -1,0 +1,26 @@
+#topic1{
+    color: aqua;
+    background-color: yellow;
+    text-align: start;
+    text-decoration: overline;
+}
+
+#comment1{
+    color: crimson;
+    background-color: coral;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+#comment2{
+    color: gold;
+    background-color: black;
+    text-align: end;
+    text-decoration: underline;
+}
+
+hr{
+    height: 10px;
+    color: brown;
+    background-color: hotpink;
+}

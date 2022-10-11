@@ -1,0 +1,56 @@
+h1,
+h3 {
+    font-family: Garamond, "Times New Roman", serif;
+    background-color: rgb(144, 144, 241);
+    color: rgb(179, 248, 242);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: left;
+    margin-left: 50px;
+    padding-top: 30px;
+    margin-right: 50px;
+}
+
+h1 {
+    text-shadow: -1px 4px black;
+}
+
+h2 {
+    font-family: Garamond, "Times New Roman", serif;
+}
+
+#Me {
+    width: 20%;
+    border: 5px dotted rgb(255, 255, 255);
+    flex-wrap: wrap;
+    text-align: center;
+    margin-left: 40%;
+}
+
+hr {
+    height: 20px;
+    color: blueviolet;
+    background-color: rgb(247, 141, 141);
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+a {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
+
+h3 {
+    background-color: rgb(160, 224, 247);
+    color: rgb(255, 253, 107);
+    font-style: inherit;
+    text-align: center;
+    text-decoration: underline;
+}
+
+button {
+    background-color: rgb(30, 253, 104);
+    margin-left: 90%;
+}

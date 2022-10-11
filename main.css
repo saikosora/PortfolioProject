@@ -1,0 +1,22 @@
+fieldset {
+    background-color: aqua;
+}
+
+legend {
+    background-color: aliceblue;
+    color: rgb(25, 0, 253);
+}
+
+.errormsg {
+    background-color: black;
+    color: rgb(255, 4, 4);
+    text-align: center;
+}
+
+firstname {
+    color: rgb(255, 4, 4);
+}
+
+span {
+    background-color: yellowgreen;
+}
